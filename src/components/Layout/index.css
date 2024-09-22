@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.layout-container {
+  min-height: 80vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}

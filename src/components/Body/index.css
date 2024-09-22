@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.leftnav-container {
+  background-color: #cbd5e1;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.content-container {
+  background-color: #e2e8f0;
+  width: 40%;
+  padding: 20px;
+}
+
+.rightnav-container {
+  background-color: #cbd5e1;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.box-container {
+  width: 80%;
+  height: 30%;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.body-container {
+  min-height: 70vh;
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.left-nav {
+  width: 30%;
+}
+
+.cont-cont {
+  width: 40%;
+}
+
+.righ-cont {
+  width: 30%;
+}
+
+.items-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
